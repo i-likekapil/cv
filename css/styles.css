@@ -1,0 +1,46 @@
+.heading{
+    background-color:#00bcd4;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin: 18px;
+}
+.top{
+    margin: 0px;
+    font-size: 16px;
+    color:#393b44;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.top_name{
+    margin: 0px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para{
+    margin: 0 0 0 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+
+}
+
+.para_edu_head{
+    font-weight: bold;
+    margin: 0 0 0 20px;
+    font-family: sans-serif;
+    
+}
+
+.para_year{
+    font-style: italic;
+    margin: 0 0 0 20px;
+    font-family: sans-serif;
+    font-weight: 500;
+}
